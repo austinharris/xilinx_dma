@@ -1,0 +1,35 @@
+$date
+        2017-Apr-13 01:25:06
+$end
+$version
+        Vivado v2016.4 (64-bit)
+$end
+$timescale
+        1ps
+$end
+$scope module dut $end
+$var reg 2 " top/U500VU190DevKitSystem/xilinxvu190xdma/blackbox/axi_mem_intercon/S01_AXI_rresp [1:0] $end
+$var reg 64 $ top/U500VU190DevKitSystem/xilinxvu190xdma/blackbox/axi_mem_intercon/S01_AXI_rdata [63:0] $end
+$var reg 32 d top/U500VU190DevKitSystem/xilinxvu190xdma/blackbox/axi_mem_intercon/S01_AXI_araddr [31:0] $end
+$var reg 39 &" top/U500VU190DevKitSystem/coreplex/SyncRocketTile/rocket/core/ex_reg_pc [39:1] $end
+$var reg 1 M" p_0_in $end
+$var reg 1 N" pcie_sys_reset_l_IBUF $end
+$var reg 1 O" top/U500VU190DevKitSystem/xilinxvu190xdma/blackbox/xdma_0/inst/pcie3_ip_i/inst/store_ltssm $end
+$var reg 1 P" top_clock $end
+$var reg 1 Q" top_reset $end
+$var reg 1 R" uart_rtsn_IBUF $end
+$var reg 1 S" uart_rx_OBUF $end
+$var reg 1 T" uart_tx_IBUF $end
+$var reg 1 U" top/U500VU190DevKitSystem/coreplex/SyncRocketTile/rocket/core/ex_pc_valid $end
+$var reg 1 V" top/host_done_reg $end
+$var reg 1 W" u_ila_0_io_xilinxvu190xdma_host_done $end
+$var reg 1 X" top/U500VU190DevKitSystem/host_done_reg_reg $end
+$var reg 1 Y" top/U500VU190DevKitSystem/xilinxvu190xdma/blackbox/axi_mem_intercon/S01_AXI_arready $end
+$var reg 1 Z" top/U500VU190DevKitSystem/xilinxvu190xdma/blackbox/axi_mem_intercon/S01_AXI_arvalid $end
+$var reg 1 [" top/U500VU190DevKitSystem/xilinxvu190xdma/blackbox/axi_mem_intercon/S01_AXI_rready $end
+$var reg 1 \" top/U500VU190DevKitSystem/xilinxvu190xdma/blackbox/axi_mem_intercon/S01_AXI_rvalid $end
+$var reg 1 ]" _TRIGGER $end
+$var reg 1 ^" _WINDOW $end
+$var reg 1 _" _GAP $end
+$upscope $end
+$enddefinitions $end
